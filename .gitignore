@@ -2,4 +2,4 @@
 exten/gtc_extension.zip
 server/Downloads/Antesdecomeçarmos.mkv
 *.mkv
-
+.gitignore
