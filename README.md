@@ -11,7 +11,7 @@
 <li><strong>Observações</strong></li>
 </ul>
 <p>
-Para baixar vídeos, é necessário: <br>- ter o script <a href="https://github.com/PauloCesar0073/GET_COURSES/tree/main/server/ffmpeg server 1.1.1.5.exe" target="_blank">Ffmpeg Server</a>. Este script atua como um servidor local simples para execução do FFmpeg.<p>- ter a extensão <a href="https://github.com/PauloCesar0073/GET_COURSES/tree/main/exten" target="_blank">GTC courses </a>
+Para baixar vídeos, é necessário: <br>- ter o script <a href="https://github.com/PauloCesar0073/GCT_Courses/blob/main/server/" target="_blank">Ffmpeg Server</a>. Este script atua como um servidor local simples para execução do FFmpeg.<p>- ter a extensão <a href="https://github.com/PauloCesar0073/GCT_Courses/tree/main/exten" target="_blank">GTC courses </a>
 </p>
 <p>- Certifique-se de estar logado em sua conta na plataforma que deseja baixar os conteúdos.
 </p>
