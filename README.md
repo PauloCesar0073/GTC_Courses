@@ -30,10 +30,15 @@ Para baixar vídeos, é necessário: <br>- ter o script <a href="https://github.
 
 # windows
 **via chocolatey**
-`choco install ffmpeg`
+```
+choco install ffmpeg
+```
 
 **via winget**
- => `winget install ffmpeg`
+
+ ```
+ winget install ffmpeg
+ ```
 
  **baixar diretamente e colocar manualmente no PATH** => [acesse](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z)
 
