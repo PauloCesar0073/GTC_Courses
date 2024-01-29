@@ -3,3 +3,4 @@ exten/gtc_extension.zip
 server/Downloads/Antesdecomeçarmos.mkv
 *.mkv
 .gitignore
+server/ffmpeg server 1.1.1.5.exe
