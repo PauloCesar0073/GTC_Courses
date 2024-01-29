@@ -26,3 +26,15 @@ Para baixar vídeos, é necessário: <br>- ter o script <a href="https://github.
         Certifique-se de ter o FFmpeg no seu PATH para utilizar todas as funcionalidades. Você pode baixar o FFmpeg na <a style="text-decoration: none;" href="https://ffmpeg.org/download.html" target="_blank">página oficial do FFmpeg</a>. Siga as instruções de instalação para o seu sistema operacional.
     </footer>
 </noscript>
+
+
+# windows
+**via chocolatey**
+`choco install ffmpeg`
+
+**via winget**
+ => `winget install ffmpeg`
+
+ **baixar diretamente e colocar manualmente no PATH** => [acesse](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z)
+
+ ---
