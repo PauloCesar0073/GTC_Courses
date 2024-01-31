@@ -1,4 +1,4 @@
-# GCT_Courses
+# GTC_Courses
  Realize o download de seus conteúdos com a GTC Courses
 
 <noscript><h1>Ajuda</h1>
